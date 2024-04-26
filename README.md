@@ -34,3 +34,12 @@ User - 24th sep 2009
 
 So in the above example, If a user has selected MALE as gender then
 AI MUST NOT ASK "When did you get a visit for your premature delivery ?" question
+
+![Male](https://github.com/NIkhalDabhi/-AI-Conversation-Model/assets/31897448/6de03cc2-b5e9-494a-a068-93ac4540b888)
+
+![Female](https://github.com/NIkhalDabhi/-AI-Conversation-Model/assets/31897448/41300b96-e953-494d-b4c4-4ff7020d6393)
+
+
+
+
+
