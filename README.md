@@ -1,4 +1,4 @@
-# -AI-Conversation-Model
+# AI-Conversation-Model
 
 Assume you are having a set of questions.You can create a CSV file and fetch it from there.
 Questions should come in sequence.
