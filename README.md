@@ -11,15 +11,15 @@ a question based on the user's answer.
 For example,
 AI - What is your name ?
 
-User : Archit
+User : XYZ
 
 AI - What is your email address?
 
-User : archit @yahoo.com
+User : xyz @yahoo.com
 
 AI - What is your gender ?
 
-User : Male
+User : Female
 
 AI - Are you playing football?
 
